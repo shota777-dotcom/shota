@@ -1,4 +1,5 @@
 // ობიექტების მასივი (პროდუქტების სია)
+//meore komentari
 let products = [
   { product: "მონიტორი", price: 500 },
   { product: "კლავიატურა", price: 75 },
